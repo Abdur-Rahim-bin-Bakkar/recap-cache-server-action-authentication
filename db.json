@@ -4,7 +4,7 @@
     "id": 1,
     "title": "ChatGPT",
     "description": "The world's most popular AI assistant by OpenAI.\nVersatile for writing, coding, reasoning, and creative tasks.",
-    "price": 20,
+    "price": 25,
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png",
     "status": "popular"
   },
